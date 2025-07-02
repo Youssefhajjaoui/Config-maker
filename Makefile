@@ -8,7 +8,7 @@ NC=\033[0m
 destination_dir=$(HOME)/Zone01_Desk_cfg
 
 # after forking and adding ur custom background / adjusting the script to your preference put the link of your repo here (your repo should be public)
-download_link=https://github.com/AmineS530/Config-maker.git
+download_link=https://github.com/Youssefhajjaoui/Config-maker.git
 
 #*  <-------------------------------  Made by asadik with chatGPT and love  ------------------------------->  *#
 
